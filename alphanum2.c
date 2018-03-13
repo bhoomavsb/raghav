@@ -16,7 +16,7 @@ int main(void)
 			y++;
 		}
 	}
-	if((x>=1)&&(y>=0))
+	if((x>=1)&&(y==0))
 	{
 		printf("yes");
 	}
